@@ -2,6 +2,7 @@
 This page currently has nothing. If you came here looking for Urdu resources, please head over to [https://delta-sigma.github.io/urdu](https://delta-sigma.github.io/urdu).
 
 
+<div dir="rtl">
 
 # السلام علیکم
 
@@ -10,3 +11,5 @@ This page currently has nothing. If you came here looking for Urdu resources, pl
 [https://delta-sigma.github.io/urdu](https://delta-sigma.github.io/urdu)
 
 _اس صفحے کا نستعلیق میں نہ ہونے کی معذرت چاہتا ہوں۔ کوشش جاری ہے۔_
+
+</div>
