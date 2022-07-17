@@ -1,4 +1,3 @@
-<link rel="shortcut icon" type="image/png" href="favicon.png">
 
 # Hello, there.
 This page currently has nothing. If you came here looking for Urdu resources, please head over to [https://delta-sigma.github.io/urdu](https://delta-sigma.github.io/urdu).
